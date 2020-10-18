@@ -6,7 +6,7 @@
       <p><b>出生日期：1998年6月</b></p>
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <p><b>邮箱：578095023@qq.com</b></p>
-      <p><b>博客地址：https://www.cnblogs.com/smartisn/</b></p>
+      <p><b>博客地址：<a>https://www.cnblogs.com/smartisn/</a></b></p>
     </td>
     <td width="25%">
       <img src="/personal_pic.png" width="100%">      
