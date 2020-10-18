@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的主页
+# 基本情况
+## 姓名：周博
+## 学校：石家庄铁道大学
+## QQ：578095023qq
+## 邮箱：578095023@qq.com
 
-You can use the [editor on GitHub](https://github.com/Smartisa/Smartisa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 获奖情况
+### 2020 年获第九届“中国软件杯”大学生软件设计大赛三等奖
+### 2019 年获石家庄铁道大学“东软杯”程序设计大赛三等奖
+### 2019 年获石家庄铁道大学第三届程序设计竞赛三等奖
+### 2019 年校级创新创业项目“‘帮你’校园资讯平台”主要负责人
+### 2019 年“PonnyNOTE”软件著作权，2019SR1237750，第一作者
+### 2019 年获院级三好学生、优秀团员称号。
+### 2020 年3 月，冀青调研《关于农村学生中学辍学情况的调查及相关对策研究——以石家庄周边农村为例》，获省级一等奖
+### 2018-2020 年获多次一等优秀学生奖学金、二等优秀学生奖学金
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Smartisa/Smartisa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 项目竞赛经历
+## 项目： 河北省科技创新平台
+### 担任职责：对冗杂、海量脏数据的数据清洗，主攻地域信息的自动、准确、快速增加，构成了另一种数据处理思路的基础。
+## 竞赛：第九届“中国软件杯”——“基于拓扑结构根因定位系统”
+### 简介：分析实际生产中的网络拓扑及告警数据，设计并实现一种故障根因定位算法，准确的定位出故障根因节点。
+### 担任职责：
+    1、算法实现过程：由于数据量的限制，采用了决策树的算法，特定的数据进行逐个筛选其与根因的关系，进而建立相应的规则，对根因数据进行筛选，我们的算法仅有三个节点错误。
+     2、系统构建过程：主要负责了系统的可视化，以及相应的功能创新，在系统中增加了邮件通知等相应功能，加强了用户使用本系统的舒适度，并最终获得了三等奖。
+## 毕业设计：基于合同纠纷司法领域知识图谱构建及应用
+### 简介：爬取“中国裁判文书网”的数据，运用相关技术，构建实体与实体之间的关系，进而通过数据分析为用户预警合同中可能隐藏的纠纷，为用户规避不必要的损失。
+## 其他：疫情期间
+### 1、通过爬取卫生健康委员会的公告以及第三方门户网站的疫情信息，通过简单的可视化，展示疫情走向，同时根据一些公告，连接百度地图的接口，勾勒出确诊人员的走向（可能不准确）。
+### 2、根据全球疫情数据和爬取到的全球温度、湿度等数据，进行了简单的对比联系，虽最后得到的结果可能不准确，但是在这个特殊的时刻，深刻感受到了数据处理的社会价值。
